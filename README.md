@@ -20,11 +20,11 @@
    - Runs the application
 
 **Manually running commands**
-Cleaning Project
-```$ mvn clean```
-Running Tests
-```mvn test```
-Build Application
-```mvn install```
-Running Application
-```java -cp target/superleague-1.0-SNAPSHOT.jar org.example.Main```
+1. Cleaning Project
+   - ```$ mvn clean```
+2. Running Tests
+   - ```mvn test```
+3. Build Application
+   - ```mvn install```
+4. Running Application
+   -```java -cp target/superleague-1.0-SNAPSHOT.jar org.example.Main```
